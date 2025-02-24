@@ -1,5 +1,5 @@
 import { useContext, useEffect, useState } from "react";
-import Title from "./title";
+import Title from "./Title";
 import { shopContext } from "../Context/shopContextProvidor";
 import CartItem from "./CartItem";
 const LatestSeller = () => {
