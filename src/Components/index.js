@@ -1,0 +1,12 @@
+import NavBar from './NavBar'
+import Hero from './Hero'
+import LatestSeller from './LatestSeller'
+import BestSeller from './BestSeller'
+import Ploicy from './Ploicy'
+import Subscrip from './Subscrip'
+import Title from './Title'
+import Search from './Search'
+import Footer from './Footer'
+import ScrollToTop from './ScrollToTop'
+import BackToTop from './BackToTop'
+export { NavBar, Hero, LatestSeller, BestSeller, Search, Ploicy, Subscrip, Title, Footer,ScrollToTop ,BackToTop}
